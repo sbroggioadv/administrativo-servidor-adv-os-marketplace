@@ -50,4 +50,4 @@ Aplicar a passada anti-IA conforme `context/escrita-humana.md` antes de chamar a
 
 ## Assinatura (fora da peça)
 
-Rastro ao advogado: skill, plugin administrativo-servidor-adv-os e versão 0.1.0, separado da peça e antes da linha final; nenhuma assinatura pessoal fixa, identificação de cliente inventada ou declaração de protocolo. A minuta depende de revisão, assinatura e decisão do advogado.
+Rastro ao advogado: skill, plugin administrativo-servidor-adv-os e versão 0.1.1, separado da peça e antes da linha final; nenhuma assinatura pessoal fixa, identificação de cliente inventada ou declaração de protocolo. A minuta depende de revisão, assinatura e decisão do advogado.

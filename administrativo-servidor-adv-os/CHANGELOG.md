@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.1] — 2026-11-06
+
+### O que muda para quem já instalou
+
+Atualize o marketplace no Cowork (Personalização → Plugins → marketplace → Sincronizar). Nada muda na pasta privada nem nos casos já abertos; os comandos são os mesmos.
+
+### Corrigido
+
+Ajustes na revisão final, depois da confirmação completa dos 24 casos de teste no plugin publicado:
+
+- Toda negativa, marco temporal, órgão ou pessoa jurídica que a entrada não dá entra no crivo como linha própria e é reescrita como "não informado na entrada"; ente federal sem pessoa jurídica informada não vira União.
+- A paráfrase da inassiduidade habitual preserva "sem causa justificada" (art. 139 da Lei 8.112).
+- Intervalo entre datas é conta: número exato contado data a data, ou só a expressão segura ("mais de N anos").
+- A falta da norma material sobre o exercício só pesa no estado quando a entrega conclui sobre o direito; não na reconsideração por erro de fato com documento oficial já juntado.
+- A medida da autoridade que impugna a validade do ato (art. 54, §2º, da Lei 9.784) é tratada como exercício do direito de anular, não como interrupção do prazo de decadência.
+
+Scripts de cálculo inalterados (versão 0.1.0).
+
 ## [0.1.0] — 2026-11-06
 
 ### O que muda para quem já instalou

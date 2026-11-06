@@ -32,7 +32,7 @@ Norma/regra necessária ausente vira PENDENTE DE FONTE; fato/marco/polo sem docu
 
 ## Assinatura (fora da peça)
 
-triagem-administrativo-servidor · administrativo-servidor-adv-os · 0.1.0, antes da linha final.
+triagem-administrativo-servidor · administrativo-servidor-adv-os · 0.1.1, antes da linha final.
 
 ## Revisão final não dispensável
 

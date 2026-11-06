@@ -70,4 +70,4 @@ Estados permitidos, do mais restritivo: **BLOQUEADO > FORA DO RECORTE > PENDENTE
 
 ## Se faltar anexo e assinatura externa
 
-Fonte/template/guia necessário indisponível limita a revisão e preserva a pendência; nunca fingir leitura. Rastro ao advogado: revisao-final-administrativo-servidor · administrativo-servidor-adv-os · 0.1.0, fora da peça e antes da linha final. A responsabilidade e o protocolo são do advogado.
+Fonte/template/guia necessário indisponível limita a revisão e preserva a pendência; nunca fingir leitura. Rastro ao advogado: revisao-final-administrativo-servidor · administrativo-servidor-adv-os · 0.1.1, fora da peça e antes da linha final. A responsabilidade e o protocolo são do advogado.

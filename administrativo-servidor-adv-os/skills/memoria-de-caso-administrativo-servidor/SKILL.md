@@ -32,7 +32,7 @@ Sem metodologia/fonte do prazo, pendência de fonte; sem pasta/documento/confirm
 
 ## Assinatura (fora da peça)
 
-memoria-de-caso-administrativo-servidor · administrativo-servidor-adv-os · 0.1.0, no rastro privado e antes da linha final.
+memoria-de-caso-administrativo-servidor · administrativo-servidor-adv-os · 0.1.1, no rastro privado e antes da linha final.
 
 ## Revisão final não dispensável
 

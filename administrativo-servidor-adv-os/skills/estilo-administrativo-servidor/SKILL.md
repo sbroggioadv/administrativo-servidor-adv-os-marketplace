@@ -28,7 +28,7 @@ Guia ou norma citada sem acesso: declarar pendência de fonte e não simular con
 
 ## Entrega e assinatura (fora da peça)
 
-Texto revisável do polo escolhido e rastro de alterações/limites; estilo-administrativo-servidor · administrativo-servidor-adv-os · 0.1.0 antes da linha final, nunca na peça.
+Texto revisável do polo escolhido e rastro de alterações/limites; estilo-administrativo-servidor · administrativo-servidor-adv-os · 0.1.1 antes da linha final, nunca na peça.
 
 ## Revisão final não dispensável
 

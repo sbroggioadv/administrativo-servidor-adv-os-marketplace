@@ -47,7 +47,7 @@ Informar somente o que foi efetivamente salvo/conferido, polo e próxima entrada
 
 ## Assinatura (fora da peça)
 
-No rastro ao advogado, antes da linha final: administrativo-servidor-install · administrativo-servidor-adv-os · 0.1.0; nunca no documento para protocolo.
+No rastro ao advogado, antes da linha final: administrativo-servidor-install · administrativo-servidor-adv-os · 0.1.1; nunca no documento para protocolo.
 
 ## Revisão final não dispensável
 

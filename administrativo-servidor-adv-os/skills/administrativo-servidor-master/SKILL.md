@@ -53,7 +53,7 @@ Falta material de lei/edital/regra ou método: fonte pendente; falta de ato, ci�
 
 ## Assinatura (fora da peça)
 
-administrativo-servidor-master · administrativo-servidor-adv-os · 0.1.0, no rastro antes da linha final; nunca na peça.
+administrativo-servidor-master · administrativo-servidor-adv-os · 0.1.1, no rastro antes da linha final; nunca na peça.
 
 ## Revisão final não dispensável
 

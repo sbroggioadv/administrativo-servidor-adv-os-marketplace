@@ -1,6 +1,6 @@
 # Administrativo do Servidor e Concursos
 
-`administrativo-servidor-adv-os` · versão 0.1.0 · IA Combativa
+`administrativo-servidor-adv-os` · versão 0.1.1 · IA Combativa
 
 Plugin para o advogado que atua em **direito administrativo do servidor público e concursos federais**, em duas trilhas separadas: **PARTICULAR** (servidor, candidato ou administrado) **ou ENTE federal** (defesa da Administração nos mesmos eixos). Um caso, um polo, confirmado pelo advogado e fixo até o fim; pedido para atuar pelos dois lados no mesmo caso é bloqueado.
 

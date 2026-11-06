@@ -82,4 +82,4 @@ Acionar `revisao-final-administrativo-servidor` uma vez sobre a entrega inteira,
 
 ## Assinatura (fora da peça)
 
-Rastro ao advogado: skill usada · administrativo-servidor-adv-os 0.1.0 · fontes e limitações; fora do documento da peça e antes da linha final de estado.
+Rastro ao advogado: skill usada · administrativo-servidor-adv-os 0.1.1 · fontes e limitações; fora do documento da peça e antes da linha final de estado.
