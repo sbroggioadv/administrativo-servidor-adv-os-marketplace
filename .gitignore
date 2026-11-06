@@ -1,0 +1,33 @@
+# .gitignore — repo do marketplace PUBLICO
+#
+# Uso: copie para a RAIZ do staging ($WORK) antes do git init.
+# Isto e a segunda linha de defesa. A PRIMEIRA e o scrub + a verificacao de
+# ausencia (PLAYBOOK/07 §7.3 e §7.5) — o .gitignore nao salva arquivo que ja
+# foi commitado, e o repo e PUBLICO.
+
+# ── lixo de sistema ──
+.DS_Store
+Thumbs.db
+*.log
+
+# ── build ──
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# ── dev-only e privado: NUNCA vao ao publico ──
+# (o scrub ja removeu; isto e o cinto de seguranca)
+dist/
+audit/
+reference/
+.planning/
+_planning/
+MEMORY.md
+.aiox/
+.synapse/
+.ai/
+private/
+
+# ── estado local do operador (se alguem rodar o plugin dentro do repo) ──
+.claude/settings.local.json

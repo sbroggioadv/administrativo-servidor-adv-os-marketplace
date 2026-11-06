@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'administrativo-servidor-adv-os carregado; escolha um polo por caso; revisão final obrigatória; /administrativo-servidor-install e /administrativo-servidor-master'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
