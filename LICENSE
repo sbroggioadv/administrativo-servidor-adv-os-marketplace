@@ -1,35 +1,85 @@
-MIT License
+═══════════════════════════════════════════════════════════════
+  LICENÇA DE USO — Administrativo Servidor Adv-OS v0.1.1
+═══════════════════════════════════════════════════════════════
 
-Copyright (c) 2026 IA Combativa
+Copyright (c) 2026 Sbroggio Advocacia & IA Combativa
+Titular: Sbroggio Advocacia & IA Combativa
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+───────────────────────────────────────────────────────────────
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. ESCOPO DA LICENÇA
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   Esta licença concede ao COMPRADOR direito não exclusivo,
+   intransferível e individual de uso do plugin Administrativo Servidor Adv-OS
+   em até 2 (dois) dispositivos pessoais ou profissionais do
+   COMPRADOR.
 
---------------------------------------------------------------------------------
-NOTA (apague esta secao ao usar)
+2. NATUREZA DO REPOSITÓRIO PÚBLICO
 
-Esta MIT cobre o REPOSITORIO publico do marketplace — e o que torna a
-distribuicao viavel pelo GitHub.
+   Quando publicado, o código-fonte poderá ser hospedado em repositório
+   público para viabilizar a distribuição via
+   marketplace Claude Desktop. A publicidade do código não
+   constitui renúncia aos direitos do COPYRIGHT HOLDER.
 
-Ela NAO e a licenca comercial do produto. A licenca de uso que o comprador
-recebe (restricoes de redistribuicao, suporte, foro) vai no capitulo 7 do
-manual PDF, gerada a partir de `LICENCA.template.txt`.
+3. RESTRIÇÕES
 
-⚠️ No campo de copyright use a MARCA, nunca o nome civil — regra R12 e
-`PLAYBOOK/08-ARTES-E-ENTREGAVEIS.md §8.6`.
---------------------------------------------------------------------------------
+   É EXPRESSAMENTE VEDADO:
+
+   • Redistribuir, revender, sublicenciar, doar, emprestar
+     ou compartilhar o plugin com terceiros como produto
+     próprio ou derivado
+
+   • Modificar o plugin para fins de comercialização derivada
+
+   • Remover marcas, créditos ou referências ao titular
+
+   • Aplicar engenharia reversa para criar produto concorrente
+
+   • Compartilhar acesso a contas que executam o plugin
+
+   • Republicar o plugin em outro marketplace sem autorização
+
+4. USO PERMITIDO
+
+   • Uso pessoal e profissional ilimitado pelo COMPRADOR
+     no exercício de sua atividade
+
+   • Customização interna (paletas, voz, tom) para a marca
+     do COMPRADOR
+
+   • Geração ilimitada de conteúdo proprietário do COMPRADOR
+     usando o plugin
+
+   • Fork privado do repositório para customização interna
+     não-comercializada
+
+5. CONFORMIDADE
+
+   O plugin não presta consultoria jurídica nem substitui o advogado responsável. Toda saída é minuta ou pendência para revisão humana; prazos e custos dependem da fonte local indicada e do caso concreto.
+
+6. ATUALIZAÇÕES
+
+   COMPRADOR recebe atualizações gratuitas dentro da mesma
+   versão major (v0.x). Upgrade para versões majors
+   subsequentes (v1.0+) podem requerer compra separada.
+
+7. SUPORTE
+
+   COMPRADOR tem direito a 90 (noventa) dias de suporte
+   técnico pelo canal indicado no manual entregue na compra.
+
+8. RESCISÃO
+
+   Violação de qualquer cláusula acima implica rescisão
+   imediata da licença e remoção compulsória do plugin de
+   todos os dispositivos do COMPRADOR.
+
+9. JURISDIÇÃO
+
+   Esta licença é regida pela legislação brasileira. Foro
+   eleito: domicílio do COMPRADOR, observadas as regras legais aplicáveis.
+
+═══════════════════════════════════════════════════════════════
+  Adquirido via Kirvano em: __/__/____
+  ID da transação: __________________
+═══════════════════════════════════════════════════════════════
